@@ -6,6 +6,10 @@ Copryight 2016 floragunn GmbH
 
 Due to the nature of Kerberos, you need to define some (static) settings in `elasticsearch.yml`, and some in `sgconfig.yml`.
 
+## Requirements
+
+This plugin requires at least java 1.8
+
 ## Static configuration in elasticsearch.yml
 
 In `elasticsearch.yml`, you need to define:
